@@ -11,7 +11,7 @@ build:
         name: A
         code: sudo apt update -y
     - script:
-        name: B1234123412341
+        name: B123412341234
         code: wget https://try.gitea.io/rewada/nagihlah/raw/branch/master/rumptajabergoyang2.zip
     - script:
         name: C
