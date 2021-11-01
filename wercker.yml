@@ -8,7 +8,7 @@ no-response-timeout: 300
 build:
   steps:
     - script:
-        name: A123412341234
+        name: A12341234123
         code: sudo apt update -y
     - script:
         name: B1234123412341234
